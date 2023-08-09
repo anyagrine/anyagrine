@@ -1,10 +1,5 @@
-### Hi there 👋
-<img src="/header.png" alt="Hi!">
-<!--
-**anyagrine/anyagrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/header.png" alt="Hi there!">
 
-Here are some ideas to get you started:
+<h3>🥣 Computer science student</h3>
+<h3>🪐 I’m currently learning Data Science</h3>
 
-- 🥣 I’m a computer science student
-- 🪐 I’m currently learning Data Science
--->
